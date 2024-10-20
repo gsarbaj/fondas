@@ -1,0 +1,12 @@
+{
+  "HomePage": {
+    "title": "Welcome to th homepage",
+    "content": "This is homepage content"
+  },
+
+  "NotFoundPage": {
+    "title": "Puslapis nerastas",
+    "subtitle": "Puslapis, kurio ieškote, nerastas"
+  }
+
+}
