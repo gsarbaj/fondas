@@ -1,12 +1,19 @@
 {
   "HomePage": {
-    "title": "Welcome to th homepage",
-    "content": "This is homepage content"
+    "title": "Guzel Naydenova",
+    "content": "Guzelė kovoja su itin reta ir mirtina autoimunine liga. Šiuo metu ji gydoma Santariškių ligoninėje, kur ja rūpinasi geriausi Lietuvos gydytojai. Tačiau jos būklė išlieka labai sunki, ir niekas negali pasakyti, ar ji išgyvens.\n\nGuzelė yra aštuonių vaikų mama, šeši iš jų dar nepilnamečiai. Vaikai faktiškai jau neteko mamos: jie toliau eina į mokyklą, sportuoja, bet be jos šilumos ir rūpesčio. Vyras stengiasi išlaikyti šeimą ir rūpinasi vaikais, tačiau finansinė našta tampa nepakenčiama. Išlaikyti tokią didelę šeimą jau yra didžiulis iššūkis, o dar reikia palaikyti Guzelę jos kovoje dėl gyvenimo.\n\nŠie vaikai, ši šeima turi šansą į laimingą ateitį. Guzelė turi galimybę pasveikti ir sugrįžti pas savo vaikus, tačiau jiems reikia pagalbos. Visi mes galime tapti šios pagalbos dalimi – tai gali būti finansinė parama, gera veikla ar tiesiog šiltas žodis. Bet kokia jūsų parama šiuo metu yra neįkainojama Guzelei ir jos šeimai.\n\nPrašome nelikti nuošalyje – padėkime jiems įveikti šį sunkų išbandymą.",
+    "button_help": "Noriu Padėti",
+    "button_more": "Sužinokite Daugiau"
   },
 
   "NotFoundPage": {
     "title": "Puslapis nerastas",
     "subtitle": "Puslapis, kurio ieškote, nerastas"
+  },
+  "NavBar": {
+    "contacts": "Kontaktai",
+    "about": "Apie Fondą",
+    "help": "Kaip Padėti"
   }
 
 }
